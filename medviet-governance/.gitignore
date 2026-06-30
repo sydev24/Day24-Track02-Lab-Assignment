@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.vault_key
+data/processed/
+data/raw/
+*.log
